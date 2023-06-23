@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/Memahami Program dan Compiler/cmake-build-debug/CMakeFiles/Memahami_Compiler.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/Memahami Program dan Compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/Memahami Program dan Compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
