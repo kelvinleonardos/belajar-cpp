@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/02. Preprocessing, Conpiling, dan Linking/cmake-build-debug/CMakeFiles/02__Preprocessing__Conpiling__dan_Linking.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/02. Preprocessing, Conpiling, dan Linking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/02. Preprocessing, Conpiling, dan Linking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
