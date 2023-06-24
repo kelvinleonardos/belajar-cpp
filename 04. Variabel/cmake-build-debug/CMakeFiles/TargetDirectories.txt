@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/04. Variabel/cmake-build-debug/CMakeFiles/04__Variabel.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/04. Variabel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/04. Variabel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
