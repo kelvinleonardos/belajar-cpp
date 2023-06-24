@@ -49,6 +49,7 @@ int main() {
 `<<`: memasukkan yang berada sesudahnya ke sebelumnya
 > Bisa juga seperti ini `std::cout << "Hello" << ", World!" << std::endl;`
 
+`<<`: operator insertion
 `endl`: akhir dari streamnya
 > endl: end line, kalau ada program lain akan lanjut dibawahnya.
 
