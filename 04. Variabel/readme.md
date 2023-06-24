@@ -1,7 +1,7 @@
 # Variabel
 
 ## 1. Deklarasi variabel
-Deklarasi variable secara umum:
+Inisialisasi variable:
 ```angular2html
 tipe_data nama_variabel = nilai_yang_akan_disimpan_di_variabel;
 ```

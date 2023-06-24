@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/05. Deklarasi dan Cin/cmake-build-debug/CMakeFiles/05__Deklarasi_dan_Cin.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/05. Deklarasi dan Cin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/05. Deklarasi dan Cin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
