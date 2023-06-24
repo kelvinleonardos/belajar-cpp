@@ -63,7 +63,9 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 Gunakan `g++ + nama_file` untuk mengcompile file C++.
 <img src="media/Screencast from 23-06-23 22 26 39.gif">
+
 Setelah `g++ main.cpp` di run di console, maka akan muncul file baru yang merupakan hasil dari compiling.
 
 Program saat dijalankan:
+
 <img src="media/Screencast from 23-06-23 22 39 09.gif">
