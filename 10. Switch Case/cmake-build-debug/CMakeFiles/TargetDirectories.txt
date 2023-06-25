@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/10. Switch Case/cmake-build-debug/CMakeFiles/10__Switch_Case.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/10. Switch Case/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/10. Switch Case/cmake-build-debug/CMakeFiles/rebuild_cache.dir
