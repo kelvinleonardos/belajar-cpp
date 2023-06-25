@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/06. Tipe Data/cmake-build-debug/CMakeFiles/06__Tipe_Data.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/06. Tipe Data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/06. Tipe Data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
