@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/07. Aritmatika/cmake-build-debug/CMakeFiles/07__Aritmatika.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/07. Aritmatika/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/07. Aritmatika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
