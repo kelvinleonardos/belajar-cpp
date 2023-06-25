@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/08. Komparasi/cmake-build-debug/CMakeFiles/08__Komparasi.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/08. Komparasi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/08. Komparasi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
