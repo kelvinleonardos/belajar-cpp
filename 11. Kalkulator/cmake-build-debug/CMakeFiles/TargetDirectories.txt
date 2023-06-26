@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/11. Kalkulator/cmake-build-debug/CMakeFiles/11__Kalkulator.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/11. Kalkulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/11. Kalkulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

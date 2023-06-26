@@ -1,0 +1,6 @@
+# ninja log v5
+712	834	1687767429753157015	11__Kalkulator	e297db678172cb8
+1	578	1687768234611689860	CMakeFiles/11__Kalkulator.dir/kalkulator_if_else.cpp.o	d271c4dbd798f46b
+1	537	1687768599356268927	CMakeFiles/11__Kalkulator.dir/kalkulator_switch_case.cpp.o	df16b93d548ca0cf
+1	537	1687768599356268927	CMakeFiles/11__Kalkulator.dir/kalkulator_if_else.cpp.o	52de5cd11eeb6a6b
+1	580	1687768929405739236	CMakeFiles/11__Kalkulator.dir/kalkulator_switch_case.cpp.o	df16b93d548ca0cf
