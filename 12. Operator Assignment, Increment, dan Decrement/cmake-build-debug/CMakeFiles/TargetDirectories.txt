@@ -1,0 +1,3 @@
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/12. Operator Assignment, Increment, dan Decrement/cmake-build-debug/CMakeFiles/12__Operator_Asignment__Increment__dan_Decrement.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/12. Operator Assignment, Increment, dan Decrement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/12. Operator Assignment, Increment, dan Decrement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

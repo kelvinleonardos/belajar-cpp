@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12__Operator_Asignment__Increment__dan_Decrement",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12__Operator_Asignment__Increment__dan_Decrement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12__Operator_Asignment__Increment__dan_Decrement-Debug-2ecb4dd3e962d45c969f.json",
+					"name" : "12__Operator_Asignment__Increment__dan_Decrement",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/12. Operator Assignment, Increment, dan Decrement/cmake-build-debug",
+		"source" : "/home/kelvinleonardos/KULIAH/PROJECT/Belajar C++/12. Operator Assignment, Increment, dan Decrement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
