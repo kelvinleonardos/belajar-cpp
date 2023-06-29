@@ -1,0 +1,4 @@
+# ninja log v5
+1	585	1688024712596051971	CMakeFiles/13__Loop.dir/do_while.cpp.o	ee1e7a109e6712bd
+1	648	1688024712660048892	CMakeFiles/13__Loop.dir/for.cpp.o	d15931d2c0866792
+0	667	1688024712676048123	CMakeFiles/13__Loop.dir/while.cpp.o	234afc3f7a10509f
